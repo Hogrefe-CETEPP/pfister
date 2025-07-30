@@ -22,7 +22,7 @@ export default function Component() {
         </div>
         {/* Right Column - PFISTER Branding */}
         <div className="lg:col-span-1 flex items-end justify-center lg:justify-start">
-          <div className="w-full max-w-xs sm:max-w-sm lg:max-w-full flex flex-col items-center pl-0 p-4 sm:p-6 rounded-lg">
+          <div className="w-full max-w-xs sm:max-w-sm lg:max-w-full flex flex-col items-center pl-0 p-4 rounded-lg">
             <img src="/capa.png" alt="Capa do manual" className="w-full h-72 sm:h-80 lg:h-92 object-contain" />
           </div>
         </div>
@@ -63,7 +63,7 @@ export default function Component() {
           </p>
         </div>
         {/* Grid 2/3 para texto e 1/3 para imagem */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-6 items-start mt-6 sm:mt-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-2 sm:gap-6 items-start mt-6 sm:mt-8">
           <div className="md:col-span-2">
             <p className="font-akkurat-regular">
               A editora está trabalhando, em conjunto com os autores, em uma edição revisada do manual, que será lançada
@@ -77,8 +77,8 @@ export default function Component() {
           </div>
 
           <div className="lg:col-span-1 flex justify-center md:justify-start mt-4 md:mt-0">
-            <div className="w-full max-w-xs sm:max-w-sm md:max-w-full flex flex-col items-center p-4 sm:p-6 pt-0 pl-0 rounded-lg">
-              <img src="/capa.png" alt="Capa do manual" className="w-full h-56 sm:h-64 md:h-72 object-contain" />
+            <div className="max-w-xs sm:max-w-sm md:max-w-full flex flex-col p-4  pt-0 pl-0 rounded-lg">
+              <img src="/capa.png" alt="Capa do manual" className="w-full h-56 sm:h-64 md:h-56 object-contain" />
             </div>
           </div>
         </div>
