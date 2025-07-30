@@ -78,7 +78,7 @@ export default function Component() {
 
           <div className="lg:col-span-1 flex justify-center md:justify-start mt-4 md:mt-0">
             <div className="max-w-xs sm:max-w-sm md:max-w-full flex flex-col p-4  pt-0 pl-0 rounded-lg">
-              <img src="/capa.png" alt="Capa do manual" className="w-full h-56 sm:h-64 md:h-56 object-contain" />
+              <img src="/capa2.png" alt="Capa do manual" className="w-full h-56 sm:h-64 md:h-62 object-contain" />
             </div>
           </div>
         </div>
