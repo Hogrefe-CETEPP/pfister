@@ -9,7 +9,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Pfister",
-  description: "As pirâmides Coloridas de Pfister"
+  description: "As pirâmides Coloridas de Pfister",
 };
 
 export default function RootLayout({
@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="pt-br">
       <body className={`${poppins.className} antialiased relative`}>
-        
+        <img src="/barra.png" className="fixed left-0" alt="borda" />
         <div className="container">{children}</div>
       </body>
     </html>

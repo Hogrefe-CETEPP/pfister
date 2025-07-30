@@ -71,9 +71,12 @@ export default function Component() {
               prejuízos para o cliente. Pedimos que preencham o seguinte formulário para realizar a troca que será feita
               ao longo do segundo semestre de 2025.
             </p>
+            <a href="https://forms.gle/pd94CjmnJ3QC8cQk7" target="_blank"
+  rel="noopener noreferrer">
             <Button variant="outline" className="mt-4 bg-transparent font-akkurat-regular w-full sm:w-auto">
               Preencha aqui
             </Button>
+            </a>
           </div>
 
           <div className="lg:col-span-1 flex justify-center md:justify-start mt-4 md:mt-0">
