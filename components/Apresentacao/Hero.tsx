@@ -74,7 +74,7 @@ adolescentes</strong>-, decorrente de uma falha no cálculo de seus componentes.
               Pedimos que preencham o seguinte formulário para agendar a troca. Entraremos em contato em breve com novas informações.
 
             </p>
-            <a href="https://forms.gle/pd94CjmnJ3QC8cQk7" target="_blank"
+            <a href="https://form.respondi.app/FGlGgVmH" target="_blank"
   rel="noopener noreferrer">
             <Button variant="outline" className="mt-4 bg-transparent font-akkurat-regular w-full sm:w-auto">
               Preencha aqui
